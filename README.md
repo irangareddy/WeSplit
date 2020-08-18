@@ -24,3 +24,7 @@ Bills Splitting App: SwiftUI
     - Binding State Property with $
 6. Creating views in a loop
     - Using a same view with ForEach Loop
+7. Reading text from the user with TextField
+8. Creating pickers in a form
+9. Adding a segmented control for tip percentages
+10. Calculating the total per person
