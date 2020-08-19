@@ -1,5 +1,14 @@
 # WeSplit
+<p align="center"><img src="preview/WeSplit.png" width="250">
+</p>
 Bills Splitting App: SwiftUI
+
+
+### **Preview**
+
+<p align="center">
+<img src="preview/WeSplitPreview.png" width="250">
+</p>
 
 **What I have learned** 
 
@@ -28,3 +37,5 @@ Bills Splitting App: SwiftUI
 8. Creating pickers in a form
 9. Adding a segmented control for tip percentages
 10. Calculating the total per person
+11. Changed Picker to TextField
+12. Wrap Up ✌️
